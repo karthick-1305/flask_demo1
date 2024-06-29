@@ -8,10 +8,7 @@ def home():
 
 @app.route("/home")
 def index():
-    return ":Index Page"
-
-
-
+    return "Welcome n***a!!!"
 
 
 if __name__ == "__main__": 
